@@ -19,4 +19,6 @@ FormData.addEventListener('submit', (event) => {
     event.preventDefalt();
     renderPokemon(input.value);
     
+
+    
 })
